@@ -26,3 +26,17 @@ ex:  `cat file1.txt > file2.txt`: this command will copy the content of file1.tx
 ex: `grep "hello" file1.txt`: this command will search for the string "hello" in file1.txt
 
 `ls -l | grep txt`: this command will search for the string "txt" in the output of the ls command
+
+### git stuffs note for week 3:
+staged -> committed -> pushed
+The staged area is used to prepare all your files and changes for committing.
+
+- HEAD: a pointer to the most recent commit of the current branch( the branch that you are currently on) with hash-id
+
+- diff: a command that is used to compare two files and display the differences between them, Individual files, branches, and commits can all be compared with Git diff.
+
+- blame: a command that is used to display the last person who modified each line of a file
+`git blame <ID><Author><Date><Time><Line number><Content>`
+`git blame -L 1,5 file1.txt`: this command will display the last person who modified the lines 1 to 5 of file1.txt
+
+ex: `git blame file1.txt`: this command will display the last person who modified each line of file1.txt
