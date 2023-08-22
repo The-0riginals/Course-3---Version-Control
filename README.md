@@ -1,6 +1,4 @@
-# Version Control
-
-<img src="../meta-logo.png" width=150>
+# Version Control by Meta
 
 - This repos contains all of my assignments from the Coursera Course: [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
 
@@ -40,3 +38,5 @@ The staged area is used to prepare all your files and changes for committing.
 `git blame -L 1,5 file1.txt`: this command will display the last person who modified the lines 1 to 5 of file1.txt
 
 ex: `git blame file1.txt`: this command will display the last person who modified each line of file1.txt
+
+<img src="./Week 3 - Working with Git/git-work-flow.jpg" width=150>
