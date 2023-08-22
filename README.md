@@ -2,6 +2,14 @@
 
 - This repos contains all of my assignments from the Coursera Course: [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
 
+### notes for week 1
+- Version Control Systems: distributed version control systems (DVCS) and centralized version control systems (CVCS)
+- Git, Mercurial, Subversion, CVS
+- Staging vs Production environments
+- CI/CD: Continuous Integration, Continuous Delivery, Continuous Deployment
+
+
+
 ### notes for week 2
 
 - unix: a set of commands that are used to interact with the Unix operating system, it sames as the terminal in mac, linux and the command prompt in windows
